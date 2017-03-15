@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">My First Project</string>
+	<string name="visit_home_page">Visit book\'s home page at</string>
+	<string name="home">http://my.sise.com.cn/</string>
+	<string name="capitalize_button">Capitalize</string>
+	<string name="message_hint">Enter message</string>
+</resources>
